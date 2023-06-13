@@ -1,16 +1,14 @@
-title: My blog
-description: My very nice blog
-author: "Jorge Sanz"
+title: CDC Vaccination Information
 
 theme: minima
 
 base_url: /gh-pages-minima-starter
 
 # Minima social links
-twitter_username: xurxosanz
-github_username: jsanz
-linkedin_username: jsanz
-rss: rss
+# twitter_username: xurxosanz
+# github_username: jsanz
+# linkedin_username: jsanz
+# rss: rss
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true
@@ -27,7 +25,7 @@ header_pages:
 include:
     - _pages
 
-exclude: 
+exclude:
     - .gitignore
     - docker-compose.yml
     - Gemfile
