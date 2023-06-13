@@ -2,6 +2,9 @@
 layout: home
 ---
 
+COVID-19 vaccines are safe and effective. Stay up to date with COVID-19 vaccine information by
+visiting the CDC.
+
 *The following information is excerpted from [fda.gov][1], detailing the Emergency Use
 Authorization (EUA) as it relates to COVID-19 vaccine:*
 
